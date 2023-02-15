@@ -1,0 +1,23 @@
+body {
+  background-color: antiquewhite;
+  text-align: center;
+}
+a {
+  padding: 20px;
+  text-decoration: none;
+  color: grey;
+}
+img {
+  max-width: 70%;
+  height: auto;
+}
+.foto {
+  display: flex;
+  justify-content: space-evenly;
+}
+.fotos {
+  border-radius: 10px;
+  border: 1px solid grey;
+  padding: 10px;
+  width: 30%;
+}
